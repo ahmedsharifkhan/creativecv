@@ -4,13 +4,13 @@
 
 ### Started Image
 started-image1:
-  image: "assets/img/man.jpg"
+  image: "https://lh3.googleusercontent.com/pw/AP1GczMlMfux2V-uG9wVBjhcmD6QQS04QdE8_34TZVrLC0HskNBau-URCuK7Huy6Kzm8NdB7wSmPuVD_dJdK0tRNlzoQRm5Cd7kd4kD1J_8szegrtnrYLMwMHrAa62rd9L_ycKSeFmSr7S1f4m_yMORFgZSaUg=w636-h839-s-no-gm?authuser=0"
 
 started-image2:
-  image: "assets/img/man2.jpg"
+  image: "https://lh3.googleusercontent.com/pw/AP1GczMlMfux2V-uG9wVBjhcmD6QQS04QdE8_34TZVrLC0HskNBau-URCuK7Huy6Kzm8NdB7wSmPuVD_dJdK0tRNlzoQRm5Cd7kd4kD1J_8szegrtnrYLMwMHrAa62rd9L_ycKSeFmSr7S1f4m_yMORFgZSaUg=w636-h839-s-no-gm?authuser=0"
 
 started-image3:
-  image: "assets/img/girl3.jpg"
+  image: "https://lh3.googleusercontent.com/pw/AP1GczMlMfux2V-uG9wVBjhcmD6QQS04QdE8_34TZVrLC0HskNBau-URCuK7Huy6Kzm8NdB7wSmPuVD_dJdK0tRNlzoQRm5Cd7kd4kD1J_8szegrtnrYLMwMHrAa62rd9L_ycKSeFmSr7S1f4m_yMORFgZSaUg=w636-h839-s-no-gm?authuser=0"
 
 ### Started Video
 started-video:
