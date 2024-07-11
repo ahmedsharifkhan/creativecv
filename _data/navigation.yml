@@ -24,7 +24,7 @@ main:
 
   # About
   - title: "About"
-    url: "#section-about/"
+    url: "#section-about"
     parent: 0
 
   # Resume
